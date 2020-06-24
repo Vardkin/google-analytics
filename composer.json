@@ -1,5 +1,5 @@
 {
-    "name": "panakour/analytics",
+    "name": "vardkin/analytics",
     "description": "Get whatever data you want from google analytics.",
     "keywords": ["laravel", "analytics"],
     "license": "MIT",
